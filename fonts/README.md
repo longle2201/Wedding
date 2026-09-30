@@ -1,0 +1,1 @@
+Vietnamese Lovelista font not supplied. Add the Vietnamese-capable font as VN-Lovelista.woff2 or VN-Lovelista.ttf here. The site already references these filenames. Until supplied, Vietnamese uses Cormorant Garamond/Georgia. English uses Caveat through Google Fonts with handwriting fallbacks. Use a font file that permits web embedding.
